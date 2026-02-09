@@ -1,42 +1,23 @@
-# 👋 Welcome to the official INformigados profile
+# INformigados
 
-We are **INformigados**, a **Brazilian technology company** focused on building solid, functional, and well-architected digital solutions — from concept to production-ready code.
+We are **INformigados**, a **Brazilian technology company** focused on building clear, reliable, and well-structured digital solutions.
 
-We work with **website development**, **systems**, **automation**, **technical support**, and **consulting**, always prioritizing clarity, performance, and long-term technical sustainability.
+Our work spans **web development**, **systems**, **automation**, and **technical consulting**, always with an emphasis on performance, maintainability, and long-term sustainability.
 
 ---
 
 ## 🧭 What we do
 
-### 🌐 Web Development
-- Institutional websites built with **modern HTML**, focused on speed and optimization
-- **WordPress** websites and systems, including:
-  - Custom **theme development**
-  - Tailor-made **plugin development**
-  - Performance, security, and technical optimization
-- Technical SEO and accessibility best practices
-
-### 🧠 Systems & Automation
-- Custom **system development**
-- Internal tools, dashboards, and process automation
-- API integrations and system interoperability
-- Solutions designed to scale and evolve over time
-
-### 🛠️ Technical Support & Consulting
-- On-demand or recurring technical support
-- System diagnostics, maintenance, and continuous improvement
-- Technical and strategic consulting
-- Mentoring focused on technology, automation, and responsible use of AI
+- Web development with **modern HTML**
+- **WordPress** solutions, including custom themes and plugins
+- Custom systems and automation
+- Technical support and consulting
 
 ---
 
 ## 🧠 Our philosophy
 
-We believe technology should:
-- Solve real-world problems  
-- Be clear, maintainable, and well-documented  
-- Evolve without creating unnecessary dependency  
-- Serve people, businesses, and the environment  
+We believe technology should solve real problems, remain understandable over time, and evolve without unnecessary complexity.
 
 Less noise. More purpose. Code with intention.
 
@@ -44,20 +25,16 @@ Less noise. More purpose. Code with intention.
 
 ## 📦 Projects & Open Source
 
-Here on GitHub, you will find:
-- Open source tools
-- Technical experiments
-- Libraries and utilities
-- Studies and projects in continuous evolution
-
-Whenever possible, we share knowledge and solutions with the community.
+Here you will find open source tools, technical experiments, libraries, and evolving projects.  
+Whenever possible, we share knowledge and practical solutions with the community.
 
 ---
 
-## 🌐 Contact & Presence
+## 🛠️ Technologies
 
-- 🌍 Website: https://informigados.com.br  
-
-Feel free to explore our repositories, follow the projects, and contribute.
-
-⭐ Welcome — and thank you for being here.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open%20Source-Yes-3DA639?style=flat-square)
