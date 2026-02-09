@@ -4,8 +4,6 @@ We are **INformigados**, a Brazilian technology company focused on building **cl
 
 Our work spans web development, systems, automation, and technical consulting — always prioritizing **performance, clarity, and long-term sustainability**.
 
----
-
 ## 🧭 Capabilities
 
 - Modern HTML web development  
