@@ -1,26 +1,17 @@
 # 👋 Welcome!
 
-We are **INformigados**, a Brazilian technology company focused on building **clear, reliable digital solutions**.
+We are a Brazilian technology company focused on building reliable, high-performance digital solutions.
 
-Our work spans web development, systems, automation, and technical consulting — always prioritizing **performance, clarity, and long-term sustainability**.
+Our work combines clarity, solid engineering, and long-term thinking — from websites and systems to technical support and open-source projects.
 
-## 🧭 Capabilities
+We believe in simple solutions, clean code, and technology that actually solves problems.
 
-- Modern HTML web development  
-- WordPress solutions (custom themes and plugins)  
-- Custom systems and automation  
-- Technical consulting and support  
+## 🧭 What we do
 
-## 🧠 Our philosophy
-
-We believe technology should solve real problems and remain understandable over time.
-
-**Less noise. More purpose. Code with intention.**
-
-## 📦 Projects & Open Source
-
-Here you will find open source tools, technical experiments, and evolving projects.  
-We share practical solutions and real-world knowledge whenever possible.
+- Web development (HTML, WordPress, custom solutions)
+- Systems and integrations
+- Performance, optimization, and technical support
+- Open-source and collaborative projects 
 
 ## 🛠️ Technologies
 
