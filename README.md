@@ -1,38 +1,25 @@
 # 👋 Welcome!
 
-I'm Alex Brito — a Brazilian Web Developer with over 15 years of hands-on experience building reliable, scalable, and high-performance digital solutions.
+I'm Alex Brito — a Brazilian Web Developer with over 15 years of experience building solid, scalable digital solutions.
 
-I’m the founder of INformigados, a technology company focused on creating clean, efficient, and long-term digital solutions for businesses that want more than just “a website.”
+I’m the founder of [INformigados](https://github.com/informigados/), where we focus on clean architecture, performance, and long-term thinking. I believe technology should be simple, efficient, and built to last — not just shipped fast.
 
-I care about clarity. I care about structure. I care about building things that last.
-
-I don’t just write code — I design systems, improve processes, and help ideas become solid digital products.
+I don’t just code features. I design systems, refine ideas, and turn complexity into clarity.
 
 ## 🚀 What I Do
 
 - Web Development (HTML, CSS, JavaScript, PHP, React, Tailwind, WordPress)
-- Systems Architecture & Integrations
-- Performance Optimization & Technical Audits
+- Systems & Integrations
+- Performance Optimization
 - Technical Consulting
-- Open-source and collaborative projects
 
 ## 🎓 Beyond Code
 
 I’m also a Technology and Philosophy professor.
 
-Teaching keeps me sharp. Philosophy keeps me grounded.
+Teaching keeps my thinking sharp. Philosophy keeps my engineering grounded.
 
-Technology moves fast. Critical thinking keeps it meaningful.
-
-For me, engineering without reflection becomes noise — and reflection without execution becomes theory. I work in both worlds.
-
-## 🧠 How I Think
-
-- Clean, maintainable code is non-negotiable  
-- Performance is not an extra — it’s part of the product  
-- Simplicity scales better than complexity  
-- Long-term vision beats short-term hacks  
-- Technology must solve real problems  
+Fast-moving tech needs thoughtful minds behind it.
 
 ## 🛠️ Technologies
 
@@ -54,7 +41,7 @@ For me, engineering without reflection becomes noise — and reflection without 
 
 ## 🌎 Location
 
-Brazil  
-Open to remote collaboration worldwide.
+Brazil 🇧🇷  
+Open to meaningful collaborations worldwide.
 
 If you're building something meaningful — let's talk.
