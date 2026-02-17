@@ -1,27 +1,24 @@
-# 👋 Welcome!
+# 👋 I'm Alex Brito.
 
-I'm Alex Brito — a Brazilian Web Developer with over 15 years of experience building solid, scalable digital solutions.
+I am a Brazilian developer with over 15 years of experience. To me, software development is an exercise in logic and longevity, not just syntax.
 
-I’m the founder of [INformigados](https://github.com/informigados/), where we focus on clean architecture, performance, and long-term thinking. I believe technology should be simple, efficient, and built to last — not just shipped fast.
+I founded [INformigados](https://github.com/informigados/) to counter the "move fast and break things" culture. We prioritize clean architecture and stability because I believe digital infrastructure should be efficient and built to endure, rather than just shipped.
 
-I don’t just code features. I design systems, refine ideas, and turn complexity into clarity.
+## 🧠 The Intersection of Code & Thought
 
-## 🚀 What I Do
+Beyond engineering, I am a Professor of Technology and Philosophy.
 
-- Web Development (HTML, CSS, JavaScript, PHP, React, Tailwind, WordPress)
-- Systems & Integrations
-- Performance Optimization
-- Technical Consulting
+This isn't just a side role; it defines how I work. Teaching philosophy keeps my reasoning rigorous, while teaching technology keeps my skills sharp. I apply critical thinking to system design, ensuring complexity is managed, not just hidden.
 
-## 🎓 Beyond Code
+## 🚀 Core Competencies
 
-I’m also a Technology and Philosophy professor.
+- Architecture & Dev: HTML, PHP, JavaScript (React), CSS (Tailwind), WordPress.
 
-Teaching keeps my thinking sharp. Philosophy keeps my engineering grounded.
+- System Logic: Performance optimization, complex integrations, and technical consulting.
 
-Fast-moving tech needs thoughtful minds behind it.
+- Methodology: Transforming abstract requirements into solid, scalable logic.
 
-## 🛠️ Technologies
+## 🛠️ Toolbelt
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -39,9 +36,9 @@ Fast-moving tech needs thoughtful minds behind it.
 ![GTmetrix](https://img.shields.io/badge/GTmetrix-1E8CBE?style=flat)
 ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-2EA44F?style=flat)
 
-## 🌎 Location
+## 🌎 Context
 
-Brazil 🇧🇷  
-Open to meaningful collaborations worldwide.
+Based in Brazil 🇧🇷.
+I am open to collaborations that value substance over hype.
 
-If you're building something meaningful — let's talk.
+If you are building something meaningful — let's talk.
