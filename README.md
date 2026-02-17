@@ -1,33 +1,38 @@
 # 👋 Welcome!
 
-I'm Alex Brito, a Brazilian Web Developer with over 15 years of experience building reliable, scalable, and performance-driven digital solutions.
+I'm Alex Brito — a Brazilian Web Developer with over 15 years of hands-on experience building reliable, scalable, and high-performance digital solutions.
 
-My work sits at the intersection of engineering, education, and strategic thinking. I don’t just build systems — I design solutions that solve real problems with clarity and long-term vision.
+I’m the founder of INformigados, a technology company focused on creating clean, efficient, and long-term digital solutions for businesses that want more than just “a website.”
+
+I care about clarity. I care about structure. I care about building things that last.
+
+I don’t just write code — I design systems, improve processes, and help ideas become solid digital products.
 
 ## 🚀 What I Do
 
 - Web Development (HTML, CSS, JavaScript, PHP, React, Tailwind, WordPress)
 - Systems Architecture & Integrations
-- Performance Optimization
+- Performance Optimization & Technical Audits
 - Technical Consulting
 - Open-source and collaborative projects
 
 ## 🎓 Beyond Code
 
-I am also a Technology and Philosophy professor.  
-Teaching keeps my thinking sharp. Philosophy keeps my engineering grounded.
+I’m also a Technology and Philosophy professor.
 
-I believe technology without reflection becomes noise — and reflection without action becomes theory.
+Teaching keeps me sharp. Philosophy keeps me grounded.
 
-I work in both worlds.
+Technology moves fast. Critical thinking keeps it meaningful.
 
-## 🧠 Core Principles
+For me, engineering without reflection becomes noise — and reflection without execution becomes theory. I work in both worlds.
 
-- Clean, maintainable code
-- Performance as a feature
-- Simplicity over complexity
-- Long-term thinking over shortcuts
-- Technology that actually solves problems
+## 🧠 How I Think
+
+- Clean, maintainable code is non-negotiable  
+- Performance is not an extra — it’s part of the product  
+- Simplicity scales better than complexity  
+- Long-term vision beats short-term hacks  
+- Technology must solve real problems  
 
 ## 🛠️ Technologies
 
@@ -52,4 +57,4 @@ I work in both worlds.
 Brazil  
 Open to remote collaboration worldwide.
 
-Let’s build something meaningful.
+If you're building something meaningful — let's talk.
