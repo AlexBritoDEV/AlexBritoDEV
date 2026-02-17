@@ -39,6 +39,7 @@ This isn't just a side role; it defines how I work. Teaching philosophy keeps my
 ## 🌎 Context
 
 Based in Brazil. 🇧🇷
+
 I am open to collaborations that value substance over hype.
 
 If you’re building something meaningful, let’s talk.
